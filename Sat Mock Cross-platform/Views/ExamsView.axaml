@@ -1,0 +1,46 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+			 xmlns:vm="using:SatMock.ViewModels"
+			 xmlns:views="using:SatMock.Views"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+			 xmlns:p1="clr-namespace:Material.Styles.Assists;assembly=Material.Styles"
+			 xmlns:materialDesign="using:Material.Styles.Controls"
+			 mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+			 x:DataType="vm:ExamsViewModel"
+             x:Class="SatMock.Views.ExamsView">
+
+	<Grid>
+		<!-- Material Card -->
+		<materialDesign:Card Padding="60" Margin="6" FontSize="20" FontWeight="Medium">
+			<TextBlock Text="Exams" Classes="MaterialHeadlineTextBlock" />
+		</materialDesign:Card>
+
+		<!-- ListView with WrapPanel for horizontal alignment -->
+		<ListBox Name="ExamsList" ItemsSource="{Binding Exams}" SelectionChanged="OnSelectionChanged" Margin="150,200,0,0">
+			<ListBox.ItemsPanel>
+				<ItemsPanelTemplate>
+					<WrapPanel Orientation="Horizontal" />
+				</ItemsPanelTemplate>
+			</ListBox.ItemsPanel>
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid>
+						<!-- Shadow layer -->
+						<Border Width="200" Height="150" CornerRadius="10" Background="Gray" Margin="5,5,0,0" Opacity="0.5" />
+
+						<!-- Main content -->
+						<Border Width="200" Height="150" CornerRadius="10" Background="White">
+							<StackPanel>
+								<TextBlock Margin="20,20,0,0" FontSize="12" FontWeight="Medium"
+										   Text="{Binding ActivationDate}" Foreground="Black" />
+								<TextBlock Margin="20,20,0,0" FontSize="20" FontWeight="Medium"
+										   Text="{Binding Name}" Foreground="Black" />
+							</StackPanel>
+						</Border>
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</Grid>
+</UserControl>
