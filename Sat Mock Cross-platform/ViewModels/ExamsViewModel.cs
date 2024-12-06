@@ -22,9 +22,9 @@ public class ExamsViewModel : ViewModelBase {
     public ExamsViewModel() {
         SelectionChangedCommand = new RelayCommand(SelectionChanged);
 
-        foreach (var exam in DbContext.Exams.ToList()) {
-            Exams.Add(exam);
-        }
+        //foreach (var exam in DbContext.Exams.ToList()) {
+        //    Exams.Add(exam);
+        //}
     }
 
     

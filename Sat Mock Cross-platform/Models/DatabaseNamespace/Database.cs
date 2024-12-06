@@ -17,8 +17,8 @@ public static class Database {
     // Constructor
 
     static Database() {
-        DbContext = new SatExaminationDbContext();
-        SatStudents = DbContext.SatStudents.ToList();
+        //DbContext = new SatExaminationDbContext();
+        //SatStudents = DbContext.SatStudents.ToList();
     }
 
     // Functions

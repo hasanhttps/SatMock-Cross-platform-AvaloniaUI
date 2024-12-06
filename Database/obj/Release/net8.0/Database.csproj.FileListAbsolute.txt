@@ -12,3 +12,4 @@ C:\Users\hasan\source\repos\Sat Mock Cross-platform\Database\obj\Release\net8.0\
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Database\obj\Release\net8.0\Database.pdb
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Database\obj\Release\net8.0\Database.genruntimeconfig.cache
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Database\obj\Release\net8.0\ref\Database.dll
+C:\Users\hasan\source\repos\Sat Mock Cross-platform\Database\obj\Release\net8.0\Database.sourcelink.json

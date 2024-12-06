@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\viewmodels\\examsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\views\\examsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\views\\examsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{713548EE-C121-4743-A4A1-199778341E7B}|Database\\Database.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\database\\dbcontexts\\satexaminationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713548EE-C121-4743-A4A1-199778341E7B}|Database\\Database.csproj|solutionrelative:database\\dbcontexts\\satexaminationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\views\\examsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\views\\examsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\models\\databasenamespace\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\models\\databasenamespace\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\views\\examsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\views\\examsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\sat mock cross-platform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\views\\examsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|solutionrelative:sat mock cross-platform\\views\\examsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF54670F-7727-4324-92FE-7C8D207D2CED}|Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj|c:\\users\\hasan\\source\\repos\\sat mock cross-platform\\sat mock cross-platform\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\Views\\MainWindow.axaml",
@@ -78,7 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "SatExaminationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Database\\DbContexts\\SatExaminationDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\DbContexts\\SatExaminationDbContext.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Database\\DbContexts\\SatExaminationDbContext.cs",
+              "RelativeToolTip": "Database\\DbContexts\\SatExaminationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:15:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Sat Mock Cross-platform.csproj",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj",
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\Sat Mock Cross-platform.csproj",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ExamsView.axaml.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\Views\\ExamsView.axaml.cs",
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\Views\\ExamsView.axaml.cs",
@@ -98,23 +115,25 @@
               "RelativeToolTip": "Sat Mock Cross-platform\\Views\\ExamsView.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T20:30:19.78Z"
+              "WhenOpened": "2024-12-05T20:30:19.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\Models\\DatabaseNamespace\\Database.cs",
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\Models\\DatabaseNamespace\\Database.cs",
               "ToolTip": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\Models\\DatabaseNamespace\\Database.cs",
               "RelativeToolTip": "Sat Mock Cross-platform\\Models\\DatabaseNamespace\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:25:31.252Z"
+              "WhenOpened": "2024-12-05T18:25:31.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ExamsView.axaml",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\Views\\ExamsView.axaml",
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\Views\\ExamsView.axaml",
@@ -131,14 +150,14 @@
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\ViewModels\\ExamsViewModel.cs",
               "ToolTip": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\ViewModels\\ExamsViewModel.cs",
               "RelativeToolTip": "Sat Mock Cross-platform\\ViewModels\\ExamsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T11:00:52.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Sat Mock Cross-platform\\Sat Mock Cross-platform\\ViewModels\\MainViewModel.cs",
               "RelativeDocumentMoniker": "Sat Mock Cross-platform\\ViewModels\\MainViewModel.cs",

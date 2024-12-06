@@ -129,3 +129,4 @@ C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\obj\
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\obj\Release\net8.0\Sat Mock.8E30A943.Up2Date
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\obj\Release\net8.0\Sat Mock Cross-platform.genruntimeconfig.cache
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\obj\Release\net8.0\ref\Sat Mock Cross-platform.dll
+C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\obj\Release\net8.0\Sat Mock Cross-platform.sourcelink.json

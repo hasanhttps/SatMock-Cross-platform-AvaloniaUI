@@ -133,3 +133,4 @@ C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\bin\
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\bin\Debug\net8.0\Database.dll
 C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\bin\Debug\net8.0\Database.pdb
+C:\Users\hasan\source\repos\Sat Mock Cross-platform\Sat Mock Cross-platform\obj\Debug\net8.0\Sat Mock Cross-platform.sourcelink.json
